@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mack-Overflow, a.k.a by my alias, Kenneth McKrola
+- 👋 Hi, I’m @Mack-Overflow, also known by my alias, Kenneth McKrola
 - 👀 I’m interested in Network Programming, Machine Learning, Cybersecurity and Full-Stack Developement
 - 🌱 I’m currently learning PHP and React
 - 💞️ I’m looking to collaborate on PHP full-stack or SOC Analyst projects
