@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mack-Overflow, also known by my alias, Kenneth McKrola
-- 👀 I’m interested in Network Programming, Machine Learning, Cybersecurity and Full-Stack Development
+- 👀 I’m interested in Cybersecurity, NuxtJS, Laravel & ML
 - 🌱 I’m currently learning PHP (Laravel) and VueJS
-- 💞️ I’m looking to collaborate on Laravel or SOC Analyst projects
+- 💞️ I’m looking to collaborate on Laravel or SOC Analysis projects
 - 📫 How to reach me: kmckrola@protonmail.com or at https://www.linkedin.com/in/kenneth-mckrola-b31801197
 
 <!---
