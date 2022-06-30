@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Mack-Overflow, also known by my alias, Kenneth McKrola
+- 👋 Hi, I’m @Mack-Overflow, also known by my alias, Kenneth McKrola.
+- You can see EXACTLY how I look when debugging anything CSS or JS-scoping related in my Profile Pic here on GH
 - 👀 I’m interested in Cybersecurity, NuxtJS, Laravel & ML
 - 🌱 I’m currently learning PHP (Laravel) and VueJS
 - 💞️ I’m looking to collaborate on Laravel or SOC Analysis projects
