@@ -2,7 +2,7 @@
 - You can see EXACTLY how I look when debugging anything CSS or JS-scoping related in my Profile Pic here on GH
 - 👀 I’m interested in Cybersecurity, NuxtJS, Laravel & ML
 - 🌱 I’m currently learning Kubernetes and Rust
-- 💞️ I’m looking to collaborate on Laravel, Vue, and Rust projects
+- 💞️ I’m looking to collaborate on Laravel, Vue, C++/CUDA and Go projects
 - 📫 How to reach me: kmckrola@protonmail.com or at https://www.linkedin.com/in/kenneth-mckrola-b31801197
 
 <!---
